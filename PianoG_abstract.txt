@@ -1,0 +1,3 @@
+Abbiamo sviluppato un progetto del tipo A, implementando una rete neurale artificiale in Python 3.7. 
+Abbiamo usato la grid-search e la cross-validation per la selezione del modello. 
+Infine, abbiamo valutato il nostro modello su un test set interno.  
